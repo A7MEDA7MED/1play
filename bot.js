@@ -227,7 +227,7 @@ function play(guild, song) {
 
 
 client.on('message', message => {
-if (message.content.startsWith('dhelp')) { //DiamondCodes - [ X_KillerYT ]
+if (message.content.startsWith('1help')) { //DiamondCodes - [ X_KillerYT ]
     let pages = [`
 ***__ الميوزك__***
 **
